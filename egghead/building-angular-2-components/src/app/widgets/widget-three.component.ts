@@ -1,8 +1,22 @@
-import {Component} from '@angular/core';
+import {Component, ViewChild, Renderer, Input} from '@angular/core';
+
 @Component({
   selector: 'widget-three',
   template: `
-  <div>Widget Three</div>
+  <input #input type="text" [value]="message">
 `
 })
-export class WidgetThree{}
+export class WidgetThree{
+    @ViewChild('input') input;
+
+    @Input() message = 'Default message';
+
+    constructor(private renderer:Renderer){}
+
+    ngAfterViewInit(){
+        this.renderer.invokeElementMethod(
+            this.input.nativeElement,
+            'focus'
+        );
+    }
+}

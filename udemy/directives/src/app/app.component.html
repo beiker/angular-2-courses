@@ -1,0 +1,66 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <button
+          class="btn btn-primary"
+          (click)="showOddNumbers = !showOddNumbers">Only show odd numbers = {{ showOddNumbers }}</button>
+    </div>
+    <hr>
+    <div class="col-xs-12">
+      <ul
+          class="list-group"
+          *ngIf="showOddNumbers">
+        <li
+            class="list-group-item"
+            [ngClass]="{odd: odd % 2 == 0}"
+            [ngStyle]="{backgroundColor: odd % 2 == 0 ? 'yellow' : 'transparent'}"
+            *ngFor="let odd of oddNumbers">{{ odd }}</li>
+      </ul>
+
+      <ul
+          class="list-group"
+          *ngIf="showOddNumbers == false">
+        <li
+            class="list-group-item"
+            [ngClass]="{odd: even % 2 == 0}"
+            [ngStyle]="{backgroundColor: even % 2 == 0 ? 'yellow' : 'transparent'}"
+            *ngFor="let even of evenNumbers">{{ even }}</li>
+      </ul>
+
+      <ng-template [ngIf]="showOddNumbers == false">
+        <ul class="list-group">
+          <li
+              class="list-group-item"
+              [ngClass]="{odd: even % 2 == 0}"
+              [ngStyle]="{backgroundColor: even % 2 == 0 ? 'yellow' : 'transparent'}"
+              *ngFor="let even of evenNumbers">{{ even }}</li>
+        </ul>
+      </ng-template>
+
+      <ul
+          class="list-group"
+          *appUnless="showOddNumbers">
+        <li
+            class="list-group-item"
+            [ngClass]="{odd: even % 2 == 0}"
+            [ngStyle]="{backgroundColor: even % 2 == 0 ? 'yellow' : 'transparent'}"
+            *ngFor="let even of evenNumbers">{{ even }}</li>
+      </ul>
+
+      <p appBasicHighlight>Style me with Basic Highlight Directive!!!! :D</p>
+
+      <p appBetterHighlight>Style me with a better highlight directive!! xD xD</p>
+      <!--<p appBetterHighlight [defaultColor]="'yellow'" [highligthColor]="'pink'">Style me with a better highlight directive and custom attributes !! xD xD</p>-->
+      <p [appBetterHighlight]="'red'" [defaultColor]="'yellow'">Style me with a better highlight directive and custom attributes !! xD xD</p>
+
+      <div [ngSwitch]="value">
+        <p *ngSwitchCase="1">1</p>
+        <p *ngSwitchCase="5">5</p>
+        <p *ngSwitchCase="10">10</p>
+        <p *ngSwitchCase="100">100</p>
+        <p *ngSwitchDefault>Default</p>
+      </div>
+
+    </div>
+  </div>
+</div>

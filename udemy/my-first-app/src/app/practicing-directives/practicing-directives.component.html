@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h3>Practicing Directives</h3>
+            <hr>
+            <button
+                class="btn btn-success"
+                (click)="onCreateLog()">Display Details</button>
+            <p [ngClass]="{showLog: displayLog === true, hideLog: displayLog === false}">Secret Password = Tuna</p>
+            <section >
+                    <p *ngFor="let log of logs; let i = index"
+                        [ngClass]="{whiteColor: i >= 4}"
+                        [ngStyle]="{backgroundColor: (i >= 4 ? 'darkblue' : '')}">{{ log }}</p>
+            </section>
+        </div>
+    </div>
+</div>
+

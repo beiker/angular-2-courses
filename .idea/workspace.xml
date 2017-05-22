@@ -2,301 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b68533-c62d-4b6b-aa57-01a94b0e40f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/app/other.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/even/even.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/even/even.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/game-control/game-control.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/game-control/game-control.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/game-control/game-control.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/odd/odd.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/odd/odd.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/app/odd/odd.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/assignment4/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/basic-highlight/basic-highlight.directive.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/better-highlight/better-highlight.directive.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/app/unless.directive.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/directives/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.componentold.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.componentold.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/cockpit/cockpit.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/cockpit/cockpit.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/cockpit/cockpit.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/practicing-directives/practicing-directives.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/practicing-directives/practicing-directives.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/server-element/server-element.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/server-element/server-element.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/server-element/server-element.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/server/server.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/server/server.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/servers/servers.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/servers/servers.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/servers/servers.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/success-alert/success-alert.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/success-alert/success-alert.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/success-alert/success-alert.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/app/warning-alert/warning-alert.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/my-first-app/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.model.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shared/dropdown.directive.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shared/ingredient.model.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-edit/shopping-edit.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-edit/shopping-edit.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/e2e/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/how-to-use.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/page-not-found/page-not-found.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/page-not-found/page-not-found.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/page-not-found/page-not-found.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/user/user.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/user/user.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/user/user.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/users.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/users.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/users/users.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/src/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/routing-start/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/e2e/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/how-to-use.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/active-users/active-users.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/active-users/active-users.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/active-users/active-users.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/counter.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/inactive-users/inactive-users.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/inactive-users/inactive-users.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/inactive-users/inactive-users.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/app/users.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/src/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-assignment/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/e2e/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/how-to-use.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/account/account.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/account/account.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/account/account.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/accounts.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/logging.service.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/new-account/new-account.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/new-account/new-account.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/app/new-account/new-account.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/src/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/services-start/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app-routing.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-start/recipe-start.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-start/recipe-start.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-start/recipe-start.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angular-2-courses.iml" afterPath="$PROJECT_DIR$/.idea/angular-2-courses.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/CHANGELOG.md" afterPath="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/tsconfig.json" afterPath="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/tsconfig.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/package.json" afterPath="$PROJECT_DIR$/udemy/project-course/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/app.module.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.service.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.service.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.html" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.ts" afterPath="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/package.json" afterPath="$PROJECT_DIR$/udemy/routing-start/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/app.module.ts" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.html" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.ts" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.ts" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.ts" afterPath="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -318,8 +54,16 @@
   <component name="FavoritesManager">
     <favorites_list name="angular-2-courses" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imports</find>
+      <find>promise</find>
+      <find>providers</find>
+      <find>recipeService</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -344,6 +88,39 @@
         <option value="$PROJECT_DIR$/../../../udemy/typescript/first-example/script.ts" />
         <option value="$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-4-excercise-1.ts" />
         <option value="$PROJECT_DIR$/../../../udemy/typescript/generics/app.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/package.json" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/auth-guard.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/users/can-deactivate-guard.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/can-deactivate-guard.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/error-page/error-page.component.html" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/error-page/error-page.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/auth.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server-resolver.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/package.json" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/app-router.module.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-start/recipe-start.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.service.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.html" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts" />
+        <option value="$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html" />
       </list>
     </option>
   </component>
@@ -355,14 +132,16 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy/project-course/node_modules" />
+    <handled-path value="$PROJECT_DIR$/udemy/routing-start/node_modules" />
     <handled-path value="$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
-    <option name="y" value="-11" />
+    <option name="y" value="-28" />
     <option name="width" value="1368" />
-    <option name="height" value="780" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -382,6 +161,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-2-courses" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="observables-start" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -396,61 +222,21 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-2-courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-2-courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="complete-course" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-2-courses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="complete-course" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app.ts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../udemy/typescript" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="typescript-compiler-editor-notification" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="plugins&#9;ACTION&#9;WelcomeScreen.Plugins&#10;keymap&#9;ACTION&#9;ChangeKeymap" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/udemy/project-course/src/app" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -556,12 +342,16 @@
       <workItem from="1495157749990" duration="921000" />
       <workItem from="1495159006503" duration="795000" />
       <workItem from="1495159816288" duration="255000" />
-      <workItem from="1495324112875" duration="329000" />
+      <workItem from="1495324112875" duration="1702000" />
+      <workItem from="1495325818642" duration="51000" />
+      <workItem from="1495325925603" duration="3541000" />
+      <workItem from="1495330609917" duration="113000" />
+      <workItem from="1495377496682" duration="27346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21410000" />
+    <option name="totallyTimeSpent" value="53834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,26 +363,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <frame x="-1" y="-28" width="1368" height="797" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.49513212" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.48958334" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.5030303" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30737135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.77329624" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24597365" sideWeight="0.50486785" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43359375" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5104167" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -601,17 +392,18 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.5030303" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30737135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37413073" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43359375" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886904" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583334" sideWeight="0.49513212" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24524158" sideWeight="0.48958334" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24597365" sideWeight="0.50486785" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524158" sideWeight="0.5104167" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -662,326 +454,810 @@
           <url>file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-4-excercise-1.ts</url>
           <line>4</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/app.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/@angular/router/src/router.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="56" column="27" lean-forward="false" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <marker date="1489717772000" expanded="false" signature="0:202" ph="/** @license ...*/" />
+            <marker date="1489717772000" expanded="false" signature="210:844" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="845:934" ph="/** @whatItDoes Represents the extra options used during navigation. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="969:3112" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="975:1676" ph="/** Enables relative navigation from the current ActivatedRoute. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="1714:1899" ph="/** Sets query parameters to the URL. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="1930:2105" ph="/** Sets the hash fragment for the URL. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2133:2369" ph="/** Preserves the query parameters for the next navigation. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2409:2623" ph="/** Preserves the fragment for the next navigation ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2660:2859" ph="/** Navigates without pushing a new state into history. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2898:3084" ph="/** Navigates while replacing the current state in history. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3113:3205" ph="/** @whatItDoes Represents an event triggered when a navigation starts. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3243:3511" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="3249:3272" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3293:3316" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3359:3382" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3412:3435" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3462:3485" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3512:3615" ph="/** @whatItDoes Represents an event triggered when a navigation ends successfully. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3651:4046" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="3657:3680" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3701:3724" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3746:3769" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3826:3849" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3879:3902" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3933:3956" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3997:4020" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4047:4144" ph="/** @whatItDoes Represents an event triggered when a navigation is canceled. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4183:4556" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="4189:4212" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4233:4256" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4278:4301" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4347:4370" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4400:4423" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4454:4477" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4507:4530" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4557:4675" ph="/** @whatItDoes Represents an event triggered when a navigation fails due to an unexpected error. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4713:5078" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="4719:4742" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4763:4786" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4808:4831" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4873:4896" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4926:4949" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4980:5003" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5029:5052" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5079:5173" ph="/** @whatItDoes Represents an event triggered when routes are recognized. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5212:5736" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="5218:5241" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5262:5285" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5307:5330" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5366:5389" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5447:5470" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5500:5523" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5554:5577" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5622:5645" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5687:5710" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5737:5969" ph="/** @whatItDoes Represents a router event. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6087:6392" ph="/** @whatItDoes Error handler that is invoked when a navigation errors. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6449:6546" ph="/** Does not detach any subtrees. Reuses routes as long as their route config is the same. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6624:6985" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="6986:7166" ph="/** @whatItDoes Provides the navigation and url manipulation capabilities. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="7195:13172" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="7567:7702" ph="/** Error handler that is invoked when a navigation errors. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="7739:7804" ph="/** Indicates if at least one navigation happened. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="7833:7919" ph="/** Extracts and merges URLs. Used for AngularJS to Angular migrations. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8014:8060" ph="/** Creates the router service. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8277:8369" ph="/** Sets up the location change listener and performs the initial navigation. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8405:8461" ph="/** Sets up the location change listener. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8507:8537" ph="/** The current route state ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8572:8594" ph="/** The current url ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8616:8653" ph="/** An observable of router events ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8689:9042" ph="/** Resets the configuration used for navigation and generating links. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="9086:9109" ph="/** @docsNotRequired ...*/" />
+            <marker date="1489717772000" expanded="true" signature="9139:9168" ph="/** Disposes of the router ...*/" />
+            <marker date="1489717772000" expanded="true" signature="9194:10839" ph="/** Applies an array of commands to the current url tree and creates a new url tree. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="10984:11625" ph="/** Navigate based on the provided url. This navigation is always absolute. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="11717:12456" ph="/** Navigate based on the provided array of commands and a starting point. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="12537:12586" ph="/** Serializes a {@link UrlTree} into a string ...*/" />
+            <marker date="1489717772000" expanded="true" signature="12631:12676" ph="/** Parses a string into a {@link UrlTree} ...*/" />
+            <marker date="1489717772000" expanded="true" signature="12717:12760" ph="/** Returns whether the url is activated ...*/" />
+            <marker date="1489717772000" expanded="true" signature="13208:14111" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-2-exercise-1.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <marker date="1495381496420" expanded="true" signature="7:278" ph="..." />
+            <marker date="1495381496420" expanded="true" signature="290:422" ph="{&quot;selector&quot;: 'app-edit-server'...}" />
+            <marker date="1495381496420" expanded="true" signature="499:1972" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="762:769" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="786:1311" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="796:898" ph="//..." />
+            <marker date="1495381496420" expanded="true" signature="995:1100" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1334:1584" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1393:1477" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1656:1970" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1687:1723" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1844:1922" ph="{...}" />
+            <marker date="1495381496420" expanded="true" signature="1928:1964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/edit-server.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <marker date="1495324289769" expanded="true" signature="79:736" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="108:297" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="170:286" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="326:622" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="393:611" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="635:729" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-4-excercise-1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/servers/servers.component.html">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/page-not-found/page-not-found.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="104">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1495324289769" expanded="true" signature="63:198" ph="{&quot;selector&quot;: 'app-page-not-found'...}" />
+            <marker date="1495324289769" expanded="true" signature="253:298" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="290:295" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/servers/servers.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/page-not-found/page-not-found.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/error-page/error-page.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/error-page/error-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/error-page/error-page.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <marker date="1495385073144" expanded="true" signature="7:104" ph="..." />
+            <marker date="1495385073144" expanded="true" signature="117:240" ph="{&quot;selector&quot;: 'app-error-page'...}" />
+            <marker date="1495385073144" expanded="true" signature="292:590" ph="{...}" />
+            <marker date="1495385073144" expanded="true" signature="383:587" ph="{...}" />
+            <marker date="1495385073144" expanded="true" signature="510:574" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <marker date="1495324289769" expanded="true" signature="16:721" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="53:429" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="86:418" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="102:403" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="466:714" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1495324289769" expanded="false" signature="7:154" ph="..." />
+            <marker date="1495324289769" expanded="true" signature="166:286" ph="{&quot;selector&quot;: 'app-servers'...}" />
+            <marker date="1495324289769" expanded="true" signature="336:740" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="554:561" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="578:642" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="659:738" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/@angular/router/src/interfaces.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="295" column="17" lean-forward="false" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
+          <folding>
+            <marker date="1489717772000" expanded="false" signature="0:202" ph="/** @license ...*/" />
+            <marker date="1489717772000" expanded="false" signature="210:360" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="361:1841" ph="/** @whatItDoes Interface that a class can implement to be a guard deciding if a route can be ...*/" />
+            <marker date="1489717772000" expanded="true" signature="1871:2000" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="2001:3706" ph="/** @whatItDoes Interface that a class can implement to be a guard deciding if a child route can be ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3741:3880" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="3881:5435" ph="/** @whatItDoes Interface that a class can implement to be a guard deciding if a route can be ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5470:5615" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="5616:6948" ph="/** @whatItDoes Interface that class can implement to be a data provider. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6977:7084" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="7085:8546" ph="/** @whatItDoes Interface that a class can implement to be a guard deciding if a children can be ...*/" />
+            <marker date="1489717772000" expanded="true" signature="8572:8652" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/servers.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <marker date="1495324289769" expanded="true" signature="28:936" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="52:368" ph="[...]" />
+            <marker date="1495324289769" expanded="true" signature="62:159" ph="{&quot;id&quot;: 1...}" />
+            <marker date="1495324289769" expanded="true" signature="169:261" ph="{&quot;id&quot;: 2...}" />
+            <marker date="1495324289769" expanded="true" signature="271:362" ph="{&quot;id&quot;: 3...}" />
+            <marker date="1495324289769" expanded="true" signature="388:424" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="452:606" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="515:566" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="681:934" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="744:795" ph="{...}" />
+            <marker date="1495324289769" expanded="true" signature="827:928" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="43" column="28" lean-forward="false" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding>
+            <marker date="1495390453420" expanded="true" signature="7:1147" ph="..." />
+            <marker date="1495390453420" expanded="true" signature="1159:1720" ph="{...}" />
+            <marker date="1495390453420" expanded="true" signature="1179:1416" ph="[...]" />
+            <marker date="1495390453420" expanded="true" signature="1431:1527" ph="[...]" />
+            <marker date="1495390453420" expanded="true" signature="1544:1687" ph="[...]" />
+            <marker date="1495390453420" expanded="true" signature="1745:1748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server-resolver.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1495392058448" expanded="true" signature="7:223" ph="..." />
+            <marker date="1495392058448" expanded="true" signature="242:299" ph="..." />
+            <marker date="1495392058448" expanded="true" signature="377:634" ph="{...}" />
+            <marker date="1495392058448" expanded="true" signature="558:632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/edit-server/can-deactivate-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1495381436824" expanded="true" signature="7:135" ph="..." />
+            <marker date="1495381436824" expanded="true" signature="177:255" ph="..." />
+            <marker date="1495381436824" expanded="true" signature="345:610" ph="{...}" />
+            <marker date="1495381436824" expanded="true" signature="559:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/rxjs/Observable.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1487650620000" expanded="false" signature="7:334" ph="..." />
+            <marker date="1487650620000" expanded="true" signature="368:522" ph="..." />
+            <marker date="1487650620000" expanded="true" signature="686:833" ph="/** A representation of any set of values over any amount of time. This the most basic building block ...*/" />
+            <marker date="1487650620000" expanded="true" signature="896:3928" ph="{...}" />
+            <marker date="1487650620000" expanded="true" signature="1007:1365" ph="/** @constructor ...*/" />
+            <marker date="1487650620000" expanded="true" signature="1466:1772" ph="/** Creates a new cold Observable by calling the Observable constructor ...*/" />
+            <marker date="1487650620000" expanded="true" signature="1806:2146" ph="/** Creates a new Observable, with this Observable as the source, and the passed ...*/" />
+            <marker date="1487650620000" expanded="true" signature="2205:3069" ph="/** Registers handlers for handling emitted values, error and completions from the observable, and ...*/" />
+            <marker date="1487650620000" expanded="true" signature="3338:3680" ph="/** @method forEach ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/@angular/router/src/router_state.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="78" column="17" lean-forward="false" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding>
+            <marker date="1489717772000" expanded="false" signature="0:202" ph="/** @license ...*/" />
+            <marker date="1489717772000" expanded="false" signature="210:448" ph="..." />
+            <marker date="1489717772000" expanded="true" signature="449:1129" ph="/** @whatItDoes Represents the state of the router. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="1192:1306" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="1198:1245" ph="/** The current snapshot of the router state ...*/" />
+            <marker date="1489717772000" expanded="true" signature="1521:2111" ph="/** @whatItDoes Contains the information about a route associated with a component loaded in an ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2148:3481" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="2154:2216" ph="/** An observable of the URL segments matched by this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2256:2322" ph="/** An observable of the matrix parameters scoped to this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2359:2428" ph="/** An observable of the query parameters shared by all the routes ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2470:2535" ph="/** An observable of the URL fragment shared by all the routes ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2574:2641" ph="/** An observable of the static and resolved data of this route. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2674:2726" ph="/** The outlet name of the route. It's a constant ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2751:2801" ph="/** The component of the route. It's a constant ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2841:2882" ph="/** The current snapshot of this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="2925:2974" ph="/** The configuration used to match this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3003:3038" ph="/** The root of the router state ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3069:3125" ph="/** The parent of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3158:3219" ph="/** The first child of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3256:3314" ph="/** The children of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3351:3419" ph="/** The path from the root of the router state tree to this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="3482:4036" ph="/** @whatItDoes Contains the information about a route associated with a component loaded in an ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4081:5190" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="4087:4132" ph="/** The URL segments matched by this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4160:4209" ph="/** The matrix parameters scoped to this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4234:4286" ph="/** The query parameters shared by all the routes ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4316:4364" ph="/** The URL fragment shared by all the routes ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4391:4440" ph="/** The static and resolved data of this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4461:4496" ph="/** The outlet name of the route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4521:4554" ph="/** The component of the route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4594:4643" ph="/** The configuration used to match this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4672:4707" ph="/** The root of the router state ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4746:4802" ph="/** The parent of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4843:4904" ph="/** The first child of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="4949:5007" ph="/** The children of this route in the router state tree ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5052:5120" ph="/** The path from the root of the router state tree to this route ...*/" />
+            <marker date="1489717772000" expanded="true" signature="5191:5922" ph="/** @whatItDoes Represents the state of the router at a moment in time. ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6001:6101" ph="{...}" />
+            <marker date="1489717772000" expanded="true" signature="6007:6058" ph="/** The url from which this snapshot was created ...*/" />
+            <marker date="1489717772000" expanded="true" signature="6102:6353" ph="/** The expectation is that the activate route is created with the right set of parameters. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/servers/server/server.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1495390651680" expanded="true" signature="7:169" ph="..." />
+            <marker date="1495390651680" expanded="true" signature="181:298" ph="{&quot;selector&quot;: 'app-server'...}" />
+            <marker date="1495390651680" expanded="true" signature="347:1177" ph="{...}" />
+            <marker date="1495390651680" expanded="true" signature="549:556" ph="{...}" />
+            <marker date="1495390651680" expanded="true" signature="573:1019" ph="{...}" />
+            <marker date="1495390651680" expanded="true" signature="638:699" ph="{...}" />
+            <marker date="1495390651680" expanded="true" signature="718:1013" ph="//..." />
+            <marker date="1495390651680" expanded="true" signature="1034:1175" ph="{...}" />
+            <marker date="1495390651680" expanded="true" signature="1075:1167" ph="{&quot;queryParamsHandling&quot;: 'preserve'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1495325343497" expanded="true" signature="0:1344" ph="{&quot;name&quot;: &quot;new-cling4&quot;...}" />
+            <marker date="1495325343497" expanded="true" signature="102:214" ph="{&quot;ng&quot;: &quot;ng&quot;...}" />
+            <marker date="1495325343497" expanded="true" signature="253:763" ph="{&quot;@angular/animations&quot;: &quot;^4.0.0&quot;...}" />
+            <marker date="1495325343497" expanded="true" signature="786:1342" ph="{&quot;@angular/cli&quot;: &quot;1.0.4&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/node_modules/@angular/router/src/config.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="331" column="17" lean-forward="false" selection-start-line="331" selection-start-column="17" selection-end-line="331" selection-end-column="17" />
+          <folding>
+            <marker date="1495061393000" expanded="false" signature="0:202" ph="/** @license ...*/" />
+            <marker date="1495061393000" expanded="false" signature="210:374" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="375:7839" ph="/** @whatItDoes Represents router configuration. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="7878:8077" ph="/** @whatItDoes Represents the results of the URL matching. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="8115:8207" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="8161:8204" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="8209:8694" ph="/** @whatItDoes A function matching URLs ...*/" />
+            <marker date="1495061393000" expanded="true" signature="8810:8946" ph="/** @whatItDoes Represents the static data associated with a particular route. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="8974:9002" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="9004:9142" ph="/** @whatItDoes Represents the resolved data associated with a particular route. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="9177:9205" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="9207:9308" ph="/** @whatItDoes The type of `loadChildren`. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="9437:9538" ph="/** @whatItDoes The type of `loadChildren`. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="9605:9717" ph="/** @whatItDoes The type of `queryParamsHandling`. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="9787:9903" ph="/** @whatItDoes The type of `runGuardsAndResolvers`. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="10005:10063" ph="/** See {@link Routes} for more details. ...*/" />
+            <marker date="1495061393000" expanded="true" signature="10087:10486" ph="..." />
+            <marker date="1495061393000" expanded="true" signature="10527:10641" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/building-angular-2-components/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/shopping-list/shopping-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495324289765" expanded="true" signature="7:164" ph="..." />
+            <marker date="1495324289765" expanded="true" signature="176:315" ph="{&quot;selector&quot;: 'app-shopping-list'...}" />
+            <marker date="1495324289765" expanded="true" signature="370:760" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="475:482" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="499:758" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="678:741" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/building-angular-2-components/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.model.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="26">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <marker date="1495324289765" expanded="true" signature="75:437" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="293:435" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/building-angular-2-components/src/app/services/simple.service.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/@angular/router/src/config.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="249" column="20" lean-forward="false" selection-start-line="249" selection-start-column="20" selection-end-line="249" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/building-angular-2-components/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/node_modules/rxjs/operator/repeat.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-start/recipe-start.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <marker date="1495410034196" expanded="true" signature="2:28" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <marker date="1495410358160" expanded="true" signature="7:489" ph="..." />
+            <marker date="1495410358160" expanded="true" signature="514:935" ph="[...]" />
+            <marker date="1495410358160" expanded="true" signature="579:870" ph="{&quot;path&quot;: 'recipes'...}" />
+            <marker date="1495410358160" expanded="true" signature="636:869" ph="[...]" />
+            <marker date="1495410358160" expanded="true" signature="948:1024" ph="{...}" />
+            <marker date="1495410358160" expanded="true" signature="1056:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <marker date="1495410474836" expanded="true" signature="16:153" ph="..." />
+            <marker date="1495410474836" expanded="true" signature="44:146" ph="..." />
+            <marker date="1495410474836" expanded="true" signature="56:135" ph="..." />
+            <marker date="1495410474836" expanded="true" signature="176:384" ph="..." />
+            <marker date="1495410474836" expanded="true" signature="204:377" ph="..." />
+            <marker date="1495410474836" expanded="true" signature="231:366" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="338">
+          <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <marker date="1495410526032" expanded="true" signature="16:222" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="44:215" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="58:204" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="186:203" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="240:312" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="268:305" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="330:914" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="358:907" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="402:896" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="423:559" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="598:881" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="630:646" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="736:752" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="823:839" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="932:1011" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="960:1004" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="1029:1290" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="1057:1283" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="1089:1272" ph="..." />
+            <marker date="1495410526032" expanded="true" signature="1176:1258" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/egghead/learn-the-basics-of-angular-2-forms/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/tsconfig.app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/node_modules/bootstrap/dist/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/main.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe-edit/recipe-edit.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1495410927896" expanded="true" signature="7:106" ph="..." />
+            <marker date="1495410927896" expanded="true" signature="119:245" ph="{&quot;selector&quot;: 'app-recipe-edit'...}" />
+            <marker date="1495410927896" expanded="true" signature="298:571" ph="{...}" />
+            <marker date="1495410927896" expanded="true" signature="399:568" ph="{...}" />
+            <marker date="1495410927896" expanded="true" signature="462:557" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.css">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/auth-guard.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/server/server.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/server/server.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/servers/servers.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy/the-complete-guide-to-angular-2/my-first-app/src/app/servers/servers.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-4-excercise-1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="234">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/app.js">
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/routing-start/src/app/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1495411794208" expanded="true" signature="48:179" ph="..." />
+            <marker date="1495411794208" expanded="true" signature="70:172" ph="..." />
+            <marker date="1495411794208" expanded="true" signature="102:161" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1495411806508" expanded="true" signature="55:158" ph="{&quot;selector&quot;: 'app-root'...}" />
+            <marker date="1495411806508" expanded="true" signature="186:189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1495406783992" expanded="true" signature="16:185" ph="..." />
+            <marker date="1495406783992" expanded="true" signature="43:100" ph="..." />
+            <marker date="1495406783992" expanded="true" signature="127:178" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1495410034240" expanded="true" signature="7:1031" ph="..." />
+            <marker date="1495410034240" expanded="true" signature="7:1117" ph="..." />
+            <marker date="1495410034240" expanded="true" signature="7:1200" ph="..." />
+            <marker date="1495410034240" expanded="true" signature="1211:1755" ph="{...}" />
+            <marker date="1495410034240" expanded="true" signature="1231:1550" ph="[...]" />
+            <marker date="1495410034240" expanded="true" signature="1565:1684" ph="[...]" />
+            <marker date="1495410034240" expanded="true" signature="1780:1783" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/app.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="156" column="9" lean-forward="true" selection-start-line="156" selection-start-column="9" selection-end-line="156" selection-end-column="9" />
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1495411986152" expanded="true" signature="7:98" ph="..." />
+            <marker date="1495411986152" expanded="true" signature="110:245" ph="{&quot;selector&quot;: 'app-recipes-item'...}" />
+            <marker date="1495411986152" expanded="true" signature="299:410" ph="{...}" />
+            <marker date="1495411986152" expanded="true" signature="377:384" ph="{...}" />
+            <marker date="1495411986152" expanded="true" signature="401:408" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/classes.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-item/recipes-item.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="286">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1495411995416" expanded="true" signature="2:559" ph="..." />
+            <marker date="1495411995416" expanded="true" signature="21:70" ph="[...]" />
+            <marker date="1495411995416" expanded="true" signature="71:87" ph="..." />
+            <marker date="1495411995416" expanded="true" signature="157:322" ph="..." />
+            <marker date="1495411995416" expanded="true" signature="356:554" ph="..." />
+            <marker date="1495411995416" expanded="true" signature="374:538" ph="..." />
+            <marker date="1495411995416" expanded="true" signature="518:535" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/complete-course/seccion-2-exercise-1.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-list/recipes-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <marker date="1495324289765" expanded="false" signature="7:137" ph="..." />
+            <marker date="1495324289765" expanded="true" signature="149:284" ph="{&quot;selector&quot;: 'app-recipes-list'...}" />
+            <marker date="1495324289765" expanded="true" signature="338:524" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="435:442" ph="{...}" />
+            <marker date="1495324289765" expanded="true" signature="459:522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1495411919948" expanded="true" signature="7:96" ph="..." />
+            <marker date="1495411919948" expanded="true" signature="108:260" ph="{&quot;selector&quot;: 'app-recipes'...}" />
+            <marker date="1495411919948" expanded="true" signature="310:364" ph="{...}" />
+            <marker date="1495411919948" expanded="true" signature="331:338" ph="{...}" />
+            <marker date="1495411919948" expanded="true" signature="355:362" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/generics/app.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipes-detail/recipes-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1066">
-          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        <state relative-caret-position="338">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <marker date="1495407802160" expanded="true" signature="7:193" ph="..." />
+            <marker date="1495407802160" expanded="true" signature="205:346" ph="{&quot;selector&quot;: 'app-recipes-detail'...}" />
+            <marker date="1495407802160" expanded="true" signature="402:999" ph="{...}" />
+            <marker date="1495407802160" expanded="true" signature="527:534" ph="{...}" />
+            <marker date="1495407802160" expanded="true" signature="551:880" ph="{...}" />
+            <marker date="1495407802160" expanded="true" signature="561:668" ph="//..." />
+            <marker date="1495407802160" expanded="true" signature="738:863" ph="{...}" />
+            <marker date="1495407802160" expanded="true" signature="908:997" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/generics/exercise.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1495395460196" expanded="true" signature="75:192" ph="{&quot;selector&quot;: 'app-header'...}" />
+            <marker date="1495395460196" expanded="true" signature="223:226" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1495411822048" expanded="true" signature="34:1120" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="67:1113" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="103:254" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="119:239" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="300:1103" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="340:551" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="604:1089" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="654:1071" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="686:702" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="741:825" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="872:1049" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="912:928" ph="..." />
+            <marker date="1495411822048" expanded="true" signature="987:1003" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/shared/ingredient.model.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495324289765" expanded="true" signature="24:91" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/first-example/script.ts">
+    <entry file="file://$PROJECT_DIR$/udemy/project-course/src/app/recipes/recipe.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../udemy/typescript/interfaces/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="54" column="11" lean-forward="false" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        <state relative-caret-position="260">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

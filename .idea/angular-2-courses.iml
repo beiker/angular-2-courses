@@ -3,8 +3,15 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/egghead" />
-      <excludeFolder url="file://$MODULE_DIR$/egghead/angular2-fundamentals/node_modules" />
-      <excludeFolder url="file://$MODULE_DIR$/egghead/building-angular-2-components/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/assignment4" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/directives" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/my-first-app" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/observables-start" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/project-course" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/routing-start" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/services-assignment" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/services-start" />
+      <excludeFolder url="file://$MODULE_DIR$/udemy/the-complete-guide-to-angular-2" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

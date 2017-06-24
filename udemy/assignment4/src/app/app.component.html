@@ -1,20 +1,20 @@
 <div class="container">
-  <div class="row">
-    <app-game-control
-      (gameStarted)="onGameStarted($event)"
-      (gameStopped)="onGameStopped($event)"></app-game-control>
-  </div>
-  <hr>
-  <div class="row">
-    <div
-      class="col-xs-12"
-      *ngFor="let number of numberValues">
-        <app-even
-          *ngIf="number.type === 'even'"
-          [number]="number.value"></app-even>
-        <app-odd *ngIf="number.type === 'odd'">
-            <span>{{ number.value }}</span>
-        </app-odd>
+    <div class="row">
+        <app-game-control
+            (gameStarted)="onGameStarted($event)"
+            (gameStopped)="onGameStopped($event)"></app-game-control>
     </div>
-  </div>
+    <hr>
+    <div class="row">
+        <div
+            class="col-xs-12"
+            *ngFor="let number of numberValues">
+            <app-even
+                *ngIf="number.type === 'even'"
+                [number]="number.value"></app-even>
+            <app-odd *ngIf="number.type === 'odd'">
+                <span>{{ number.value }}</span>
+            </app-odd>
+        </div>
+    </div>
 </div>

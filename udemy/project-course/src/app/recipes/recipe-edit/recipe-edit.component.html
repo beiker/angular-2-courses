@@ -1,3 +1,81 @@
-<p>
-  recipe-edit works!
-</p>
+<div
+    *ngIf="recipeForm.invalid && recipeForm.touched"
+    class="alert alert-info">Please complete the below fields
+</div>
+<form
+    #recipeForm="ngForm"
+    (ngSubmit)="onSubmit()">
+    <div
+        class="form-group"
+        [ngClass]="{'has-error': name.invalid && name.touched}">
+        <label for="name">Name</label>
+        <input
+            type="text"
+            ngModel
+            #name="ngModel"
+            name="name"
+            id="name"
+            class="form-control"
+            required>
+        <div
+            *ngIf="name.invalid && name.touched"
+            class="help-block">The recipe name is required!
+        </div>
+    </div>
+    <div
+        class="form-group"
+        [ngClass]="{'has-error': description.invalid && description.touched}">
+        <label for="description">Description</label>
+        <textarea
+            ngModel
+            #description="ngModel"
+            name="description"
+            id="description"
+            cols="30"
+            rows="5"
+            class="form-control"
+            required></textarea>
+        <span
+            *ngIf="description.invalid && description.touched"
+            class="help-block">The description is required!</span>
+    </div>
+    <div
+        class="form-group"
+        [ngClass]="{'has-error': image.invalid && image.touched}">
+        <label for="image">URL image</label>
+        <input
+            type="text"
+            ngModel
+            #image="ngModel"
+            name="image"
+            id="image"
+            class="form-control"
+            required>
+        <span
+            *ngIf="image.invalid && image.touched"
+            class="help-block">The image url is required!</span>
+    </div>
+    <div class="form-group">
+        <label for="ingredients">Ingredients</label>
+        <div class="row">
+            <div class="col-xs-6">
+                <label for="ingredient-name">Name</label>
+                <input
+                    name="ingredient-name"
+                    type="text"
+                    class="form-control">
+            </div>
+            <div class="col-xs-6">
+                <label for="ingredient-amoub">Amount</label>
+                <input
+                    name="ingredient-amount"
+                    type="number"
+                    class="form-control">
+            </div>
+        </div>
+    </div>
+    <button
+        type="submit"
+        class="btn btn-primary">Save
+    </button>
+</form>
